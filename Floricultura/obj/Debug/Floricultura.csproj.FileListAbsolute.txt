@@ -10,3 +10,5 @@ C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Floricultura\Floricultura\o
 C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Floricultura\Floricultura\obj\Debug\Floricultura.csproj.CoreCompileInputs.cache
 C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Floricultura\Floricultura\obj\Debug\Floricultura.exe
 C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Floricultura\Floricultura\obj\Debug\Floricultura.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Floricultura\Floricultura\obj\Debug\Floricultura.CadastroClien.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Floricultura\Floricultura\obj\Debug\Floricultura.Menu.resources
